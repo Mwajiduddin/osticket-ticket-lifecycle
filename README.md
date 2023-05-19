@@ -66,7 +66,7 @@ You can resolve tickets by selecting "Resolved" from the drop-down menu next to 
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/g9.png" />
 </p>
 
-Remember to delete you virtual machine in Azure once you're done playing around in osTicket.
+Remember to delete your virtual machine in Azure once you're done playing around in osTicket.
 
 
 
