@@ -46,7 +46,7 @@ http://localhost/osTicket/scp/login.php
 </p>
 
 
-Click on one of the ticket you created and you'll see that you can modify its status, priority, department, specifiy on who you want to assign it, change the SLA, and ticket status. Remember: the reason why you can change so much paramaters is because in the previous tutorial we ticked off all the boxes in "Permissions" when creating our agent, Jane Doe.
+Click on one of the ticket you created and you'll see that you can modify its configuration such as its status, priority, department, specifiy on who you want to assign it, change the SLA, and ticket status. Remember: the reason why you can change so much of the ticket's paramaters is because in the previous tutorial we assigned our agent, Jane Doe, the role as a Supreme Admin and the Supreme Admin has all the permissions enabled.
 
  <p align="center">
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/g7.png" />
