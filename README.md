@@ -31,6 +31,8 @@ Using the link above, create a ticket, log in as one of the users you create in 
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/g4.png" />
 </p>
 
+<h3>Step 2: Modify and resolving a ticket as an agent</h3>
+
 Now copy and paste the link at the bottom and log back in as the agent that you made in the previous tutorial and you'll see the tickets that you've made are populated in the front page.
 
 http://localhost/osTicket/scp/login.php
@@ -44,7 +46,7 @@ http://localhost/osTicket/scp/login.php
 </p>
 
 
-Click on one of the ticket you created and you'll see that you can change its status, priority, department, specifiy on who you want to assign it, SLA, and the ticket status. Remember: the reason why you can change so much paramaters is because in the previous tutorial we ticked off all the boxes in "Permissions" when creating our agent, Jane Doe.
+Click on one of the ticket you created and you'll see that you can modify its status, priority, department, specifiy on who you want to assign it, change the SLA, and ticket status. Remember: the reason why you can change so much paramaters is because in the previous tutorial we ticked off all the boxes in "Permissions" when creating our agent, Jane Doe.
 
  <p align="center">
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/g7.png" />
