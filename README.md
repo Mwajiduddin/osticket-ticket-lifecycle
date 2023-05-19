@@ -48,11 +48,12 @@ http://localhost/osTicket/scp/login.php
 
 Click on one of the ticket you created and you'll see that you can modify its configuration such as its status, priority, department, specifiy on who you want to assign it, change the SLA, and ticket status. 
 
-Remember: the reason why you can change so much of the ticket's paramaters is because in the previous tutorial we assigned our agent, Jane Doe, the role as a Supreme Admin and the Supreme Admin has all the permissions enabled.
-
  <p align="center">
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/g7.png" />
 </p>
+
+Remember: the reason why you can change so much of the ticket's paramaters is because in the previous tutorial we assigned our agent, Jane Doe, the role as a Supreme Admin and the Supreme Admin has all the permissions enabled.
+
 
 You can resolve tickets by selecting "Resolved" from the drop-down menu next to "Ticket Status" and clicking on "Post Reply" then it will be in the "Closed" section and it will specify who closed the ticket. 
 
