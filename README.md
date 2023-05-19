@@ -5,7 +5,7 @@
 </p>
 
 <h1>Introduction</h1>
-In this section we will play around in osTicket and show the ticketing process. This part is more of a self-experimentation for you to explore the ticket process than a guiding tutorial.<br />
+In this section we will play around in osTicket and show the ticketing process. This part is more of a self-experimentation for you to explore than a guiding tutorial.<br />
 
 <h2>Walkthrough</h2>
 
@@ -13,7 +13,7 @@ In this section we will play around in osTicket and show the ticketing process. 
 
 http://localhost/osTicket/ 
 
-Using the link above, create a ticket, log in as one of the users you create in the previous tutorial, select one of the help topics you've made in the previous tutorial, fill in the blanks at your own discretion and hit "Create Ticket." You can then create another ticket as the other user by clicking on "Open a New Ticket" up top.
+Using the link above, create a ticket, log in as one of the users you created in the previous tutorial, then select one of the help topics you've made in the previous tutorial, fill in the blanks at your own discretion and hit "Create Ticket." You can then create another ticket as the other user by clicking on "Open a New Ticket" up top.
 
  <p align="center">
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/g1.png" />
@@ -33,7 +33,7 @@ Using the link above, create a ticket, log in as one of the users you create in 
 
 <h3>Step 2: Modify and resolving a ticket as an agent</h3>
 
-Now copy and paste the link at the bottom and log back in as the agent that you made in the previous tutorial and you'll see the tickets that you've made are populated in the front page.
+Now copy and paste the link at the bottom and log back in as the agent that you made in the previous tutorial and you'll see the tickets that you've made populated in the front page.
 
 http://localhost/osTicket/scp/login.php
 
@@ -52,7 +52,7 @@ Click on one of the ticket you created and you'll see that you can modify its co
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/g7.png" />
 </p>
 
-Remember: the reason why you can change so much of the ticket's paramaters is because in the previous tutorial we assigned our agent, Jane Doe, the role as a Supreme Admin and the Supreme Admin has all the permissions enabled.
+Remember: the reason why you can change so much of the ticket's paramaters is because in the previous tutorial we assigned our agent, Jane Doe, the role as a Supreme Admin and the Supreme Admin has all of the permissions enabled.
 
 
 You can resolve tickets by selecting "Resolved" from the drop-down menu next to "Ticket Status" and clicking on "Post Reply" then it will be in the "Closed" section and it will specify who closed the ticket. 
