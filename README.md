@@ -31,7 +31,7 @@ Using the link above, create a ticket, log in as one of the users you create in 
 <img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/g4.png" />
 </p>
 
-Now copy and paste the link at the bottom and log back in as the agent that you made in the previous tutorial and you'll see the tickets that you made are populated in the front page.
+Now copy and paste the link at the bottom and log back in as the agent that you made in the previous tutorial and you'll see the tickets that you've made are populated in the front page.
 
 http://localhost/osTicket/scp/login.php
 
