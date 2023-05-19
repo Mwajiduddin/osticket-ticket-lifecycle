@@ -5,7 +5,7 @@
 </p>
 
 <h1>Introduction</h1>
-In this section we will play around in osTicket and show the ticketing process. This part is more of a self-experimentation for you to explore the ticket process than a tutorial<br />
+In this section we will play around in osTicket and show the ticketing process. This part is more of a self-experimentation for you to explore the ticket process than a guiding tutorial.<br />
 
 <h2>Walkthrough</h2>
 
