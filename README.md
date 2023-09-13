@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png"/>
 </p>
 
-<h1>Introduction</h1>
+<h1>Overview</h1>
 In this section we will play around in osTicket and show the ticketing process. This part is more of a self-experimentation for you to explore than a guiding tutorial.<br />
 
 <h2>Walkthrough</h2>
